@@ -3,7 +3,7 @@ from discord_webhook import DiscordWebhook
 from time import sleep
 
 URL = "https://api.mojang.com/users/profiles/minecraft/"
-WEBHOOKURL = "https://discord.com/api/webhooks/956570951322067014/pkTH9HELOVSEITXz7ppK8xCQBPJaA6Tc3fR1gKx2prrVtIZ98tnUnf9cm5sgJbOtxLHm"
+WEBHOOKURL = "" #Webhook here
 
 Names = open('names.txt', 'r').read().splitlines() 
 

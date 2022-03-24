@@ -1,6 +1,6 @@
 
 # Minecraft Name Drop Checker
-
+Checks if Minecraft names drop and sends webhooks if the name is dropping
 
 
 
